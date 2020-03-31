@@ -1,0 +1,24 @@
+{
+    "name": "reasonForEncounter",
+    "version" : "0.1.0",  
+    "canonical" : "http://socialstyrelsen.se/fhir/reasonForEncounter",
+    "url" : "http://socialstyrelsen.se/fhir/reasonForEncounter",
+    "title" : "Reason For Encounter Implementation Guide",
+    "description": "Reason For Encounter Implementation Guide",
+    "dependencies": {
+       "hl7.fhir.r4.core": "4.0.1"
+    },
+    "keywords": [
+      "reason",
+      "encounter"
+    ],
+    "language": "en",
+    "author": "Socialstyrelsen",
+    "maintainers": [
+      {
+        "name": "Päivi Piirainen",
+        "email": "Paivi.Piirainen@socialstyrelsen.se"
+      }
+    ],
+    "license": "CC0-1.0"
+   }
